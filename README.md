@@ -31,7 +31,6 @@ Ela oferece funcionalidades como:
 
 # Como executar o projeto
 
-## Back end
 Pré-requisitos: Java 17
 
 ```bash
